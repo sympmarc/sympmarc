@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 Ask me about Microsoft 365 PnP (@m365PnP)
+
 <!--
 **sympmarc/sympmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
